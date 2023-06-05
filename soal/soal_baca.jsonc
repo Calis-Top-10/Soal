@@ -7,42 +7,50 @@
                 {
                     "type": "baca_input_suara",
                     "question": "A",
-                    "answer": ["a"]
+                    "answer": ["a"],
+                    "tags": ["baca_a"]
                 },
                 {
                     "type": "baca_input_suara",
                     "question": "B",
-                    "answer": ["b"]
+                    "answer": ["b"],
+                    "tags": ["baca_b"]
                 },
                 {
                     "type": "baca_input_suara",
                     "question": "C",
-                    "answer": ["c"]
+                    "answer": ["c"],
+                    "tags": ["baca_c"]
                 },
                 {
                     "type": "baca_input_suara",
                     "question": "d",
-                    "answer": ["d"]
+                    "answer": ["d"],
+                    "tags": ["baca_d"]
                 },
                 {
                     "type": "baca_input_suara",
                     "question": "e",
-                    "answer": ["e"]
+                    "answer": ["e"],
+                    "tags": ["baca_e"]
                 },
                 {
                     "type": "baca_input_suara",
                     "question": "m",
-                    "answer": ["m"]
+                    "answer": ["m"],
+                    "tags": ["baca_m"]
                 },
                 {
                     "type": "baca_input_suara",
                     "question": "k",
-                    "answer": ["k"]
+                    "answer": ["k"],
+                    "tags": ["baca_k"]
                 },
                 {
                     "type": "baca_input_suara",
                     "question": "u",
-                    "answer": ["u"]
+                    "answer": ["u"],
+                    "tags": ["baca_u"]
                 }
             ]
         },
@@ -53,29 +61,34 @@
                 {
                     "type": "baca_input_suara",
                     "question": "baca",
-                    "answer": ["baca"]
+                    "answer": ["baca"],
+                    "tags": ["baca_ba","baca_mu", "baca_kata_dasar"]
                 },
                 {
                     "type": "baca_input_suara",
                     "question": "kaca",
                     "answer": ["kaca"],
-                    "feedback_img": "<path ke gambar kaca>"
+                    "feedback_img": "<path ke gambar kaca>",
+                    "tags":["baca_ka","baca_ca", "baca_kata_dasar"]
                 },
                 {
                     "type": "baca_input_suara",
                     "question": "buku",
                     "answer": ["buku"],
-                    "feedback_img": "<path ke gambar buku>"
+                    "feedback_img": "<path ke gambar buku>",
+                    "tags": ["baca_bu", "baca_ku" ,"baca_kata_dasar"]
                 },
                 {
                     "type": "baca_input_suara",
                     "question": "caca",
-                    "answer": ["caca"]
+                    "answer": ["caca"],
+                    "tags": ["baca_ca", "baca_kata_dasar"]
                 },
                 {
                     "type": "baca_input_suara",
                     "question": "kamu",
-                    "answer": ["kamu"]
+                    "answer": ["kamu"],
+                    "tags": ["baca_ka", "baca_mu","baca_kata_dasar"]
                 }
             ]
         },
@@ -86,22 +99,26 @@
                 {
                     "type": "baca_input_suara",
                     "question": "adab",
-                    "answer": ["adab"]
+                    "answer": ["adab"],
+                    "tags": ["baca_a", "baca_dab" ,"baca_konsonan_mati"]
                 },
                 {
                     "type": "baca_input_suara",
                     "question": "membaca",
-                    "answer": ["membaca"]
+                    "answer": ["membaca"],
+                    "tags": ["baca_mem", "baca_ba", "baca_ca", "baca_konsonan_mati"]
                 },
                 {
                     "type": "baca_input_suara",
                     "question": "kebab",
-                    "answer": ["kebab"]
+                    "answer": ["kebab"],
+                    "tags": ["baca_ke", "baca_bab", "baca_konsonan_mati"]
                 },
                 {
                     "type": "baca_input_suara",
                     "question": "muak",
-                    "answer": ["muak"]
+                    "answer": ["muak"],
+                    "tags": ["baca_mu", "baca_ak", "baca_konsonan_mati"]
                 }
             ]
         },
@@ -112,7 +129,8 @@
                 {
                     "type": "baca_kalimat_input_suara",
                     "question": "caca membaca buku",
-                    "answer": ["caca", "membaca", "buku"]
+                    "answer": ["caca", "membaca", "buku"],
+                    "tags": ["baca_kalimat"]
                 }
             ]
         }

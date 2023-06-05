@@ -7,182 +7,218 @@
         {
           "type": "tulis_soal_teks",
           "question": "A",
-          "answer": ["A"]
+          "answer": ["A"],
+          "tags": ["tulis_A"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "A besar",
-          "answer": ["A"]
+          "answer": ["A"],
+          "tags": ["dikte_A"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "a",
-          "answer": ["a"]
+          "answer": ["a"],
+          "tags": ["tulis_a"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "a kecil",
-          "answer": ["a"]
+          "answer": ["a"],
+          "tags": ["dikte_a"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "B",
-          "answer": ["B"]
+          "answer": ["B"],
+          "tags": ["tulis_B"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "B besar",
-          "answer": ["B"]
+          "answer": ["B"],
+          "tags": ["dikte_B"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "b",
-          "answer": ["b"]
+          "answer": ["b"],
+          "tags": ["tulis_b"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "b kecil",
-          "answer": ["b"]
+          "answer": ["b"],
+          "tags": ["dikte_b"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "C",
-          "answer": ["C"]
+          "answer": ["C"],
+          "tags": ["tulis_C"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "C besar",
-          "answer": ["C", "c"]
+          "answer": ["C", "c"],
+          "tags": ["dikte_C"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "c",
-          "answer": ["c", "C"]
+          "answer": ["c", "C"],
+          "tags": ["tulis_c"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "c kecil",
-          "answer": ["C", "c"]
+          "answer": ["C", "c"],
+          "tags": ["dikte_c"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "D",
-          "answer": ["D"]
+          "answer": ["D"],
+          "tags": ["tulis_D"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "D besar",
-          "answer": ["D"]
+          "answer": ["D"],
+          "tags": ["dikte_D"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "d",
-          "answer": ["d"]
+          "answer": ["d"],
+          "tags": ["tulis_d"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "d kecil",
-          "answer": ["d"]
+          "answer": ["d"],
+          "tags": ["dikte_d"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "E",
-          "answer": ["E"]
+          "answer": ["E"],
+          "tags": ["tulis_E"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "E besar",
-          "answer": ["E"]
+          "answer": ["E"],
+          "tags": ["dikte_E"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "e",
-          "answer": ["e"]
+          "answer": ["e"],
+          "tags": ["tulis_e"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "e kecil",
-          "answer": ["e"]
+          "answer": ["e"],
+          "tags": ["dikte_e"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "E",
-          "answer": ["E"]
+          "answer": ["E"],
+          "tags": ["tulis_E"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "M besar",
-          "answer": ["M"]
+          "answer": ["M"],
+          "tags": ["dikte_M"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "m",
-          "answer": ["m"]
+          "answer": ["m"],
+          "tags": ["tulis_m"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "m kecil",
-          "answer": ["m"]
+          "answer": ["m"],
+          "tags": ["dikte_m"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "K",
-          "answer": ["K"]
+          "answer": ["K"],
+          "tags": ["tulis_K"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "K besar",
-          "answer": ["K"]
+          "answer": ["K"],
+          "tags": ["dikte_K"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "k",
-          "answer": ["k"]
+          "answer": ["k"],
+          "tags": ["tulis_k"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "k kecil",
-          "answer": ["k"]
+          "answer": ["k"],
+          "tags": ["dikte_k"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "U",
-          "answer": ["U"]
+          "answer": ["U"],
+          "tags": ["tulis_U"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "U besar",
-          "answer": ["U"]
+          "answer": ["U"],
+          "tags": ["dikte_U"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "u",
-          "answer": ["u"]
+          "answer": ["u"],
+          "tags": ["tulis_u"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "u kecil",
-          "answer": ["u"]
+          "answer": ["u"],
+          "tags": ["dikte_u"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "R",
-          "answer": ["R"]
+          "answer": ["R"],
+          "tags": ["tulis_R"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "R besar",
-          "answer": ["R"]
+          "answer": ["R"],
+          "tags": ["dikte_R"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "r",
-          "answer": ["r"]
+          "answer": ["r"],
+          "tags": ["tulis_r"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "r kecil",
-          "answer": ["r"]
+          "answer": ["r"],
+          "tags": ["dikte_r"]
         }
       ]
     },
@@ -193,64 +229,76 @@
         {
           "type": "tulis_soal_teks",
           "question": "baca",
-          "answer": ["baca"]
+          "answer": ["baca"],
+          "tags": ["tulis_kata"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "baca",
-          "answer": ["baca"]
+          "answer": ["baca"],
+          "tags": ["dikte_kata"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "kaca",
           "answer": ["kaca"],
-          "feedback_img": "<path ke gambar kaca>"
+          "feedback_img": "<path ke gambar kaca>",
+          "tags": ["tulis_kata"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "kaca",
           "answer": ["kaca"],
-          "feedback_img": "<path ke gambar kaca>"
+          "feedback_img": "<path ke gambar kaca>",
+          "tags": ["dikte_kata"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "buku",
-          "answer": ["buku"]
+          "answer": ["buku"],
+          "tags": ["tulis_kata"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "buku",
-          "answer": ["buku"]
+          "answer": ["buku"],
+          "tags": ["dikte_kata"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "caca",
-          "answer": ["caca"]
+          "answer": ["caca"],
+          "tags": ["tulis_kata"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "caca",
-          "answer": ["caca"]
+          "answer": ["caca"],
+          "tags": ["dikte_kata"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "kamu",
-          "answer": ["kamu"]
+          "answer": ["kamu"],
+          "tags": ["tulis_kata"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "kamu",
-          "answer": ["kamu"]
+          "answer": ["kamu"],
+          "tags": ["dikte_kata"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "kura-kura",
-          "answer": ["kura-kura"]
+          "answer": ["kura-kura"],
+          "tags": ["tulis_kata"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "kura-kura",
-          "answer": ["kura-kura"]
+          "answer": ["kura-kura"],
+          "tags": ["dikte_kata"]
         }
       ]
     },
@@ -261,22 +309,26 @@
         {
           "type": "tulis_soal_suara",
           "question": "adab",
-          "answer": ["adab"]
+          "answer": ["adab"],
+          "tags": ["dikte_kata"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "membaca",
-          "answer": ["membaca"]
+          "answer": ["membaca"],
+          "tags": ["dikte_kata"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "kebab",
-          "answer": ["kebab"]
+          "answer": ["kebab"],
+          "tags": ["dikte_kata"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "muak",
-          "answer": ["muak"]
+          "answer": ["muak"],
+          "tags": ["dikte_kata"]
         }
       ]
     },
@@ -287,12 +339,14 @@
         {
           "type": "tulis_soal_baca",
           "question": "kura-kura membaca buku",
-          "answer": ["kura-kura", "membaca", "buku"]
+          "answer": ["kura-kura", "membaca", "buku"],
+          "tags": ["tulis_kalimat"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "kura-kura membaca buku",
-          "answer": ["kura-kura", "membaca", "buku"]
+          "answer": ["kura-kura", "membaca", "buku"],
+          "tags": ["dikte_kalimat"]
         }
       ]
     }

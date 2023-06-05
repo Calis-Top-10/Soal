@@ -7,102 +7,122 @@
         {
           "type": "tulis_soal_teks",
           "question": "0",
-          "answer": ["0"]
+          "answer": ["0"],
+          "tags": ["tulis_0"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "0",
-          "answer": ["0"]
+          "answer": ["0"],
+          "tags": ["dikte_0"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "1",
-          "answer": ["1"]
+          "answer": ["1"],
+          "tags": ["tulis_1"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "1",
-          "answer": ["1"]
+          "answer": ["1"],
+          "tags": ["dikte_1"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "2",
-          "answer": ["2"]
+          "answer": ["2"],
+          "tags": ["tulis_2"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "2",
-          "answer": ["2"]
+          "answer": ["2"],
+          "tags": ["dikte_2"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "3",
-          "answer": ["3"]
+          "answer": ["3"],
+          "tags": ["tulis_3"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "3",
-          "answer": ["3"]
+          "answer": ["3"],
+          "tags": ["dikte_3"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "4",
-          "answer": ["4"]
+          "answer": ["4"],
+          "tags": ["tulis_4"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "4",
-          "answer": ["4"]
+          "answer": ["4"],
+          "tags": ["dikte_4"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "5",
-          "answer": ["5"]
+          "answer": ["5"],
+          "tags": ["tulis_5"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "5",
-          "answer": ["5"]
+          "answer": ["5"],
+          "tags": ["dikte_5"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "6",
-          "answer": ["6"]
+          "answer": ["6"],
+          "tags": ["tulis_6"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "6",
-          "answer": ["6"]
+          "answer": ["6"],
+          "tags": ["dikte_6"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "7",
-          "answer": ["7"]
+          "answer": ["7"],
+          "tags": ["tulis_7"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "7",
-          "answer": ["7"]
+          "answer": ["7"],
+          "tags": ["dikte_7"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "8",
-          "answer": ["8"]
+          "answer": ["8"],
+          "tags": ["tulis_8"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "8",
-          "answer": ["8"]
+          "answer": ["8"],
+          "tags": ["dikte_8"]
         },
         {
           "type": "tulis_soal_teks",
           "question": "9",
-          "answer": ["9"]
+          "answer": ["9"],
+          "tags": ["tulis_9"]
         },
         {
           "type": "tulis_soal_suara",
           "question": "9",
-          "answer": ["9"]
+          "answer": ["9"],
+          "tags": ["dikte_9"]
         }
       ]
     },
@@ -114,61 +134,71 @@
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
           "question_img": "<path ke gambar semut>",
-          "answer": ["0"]
+          "answer": ["0"],
+          "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
           "question_img": "<path ke gambar semut>",
-          "answer": ["1"]
+          "answer": ["1"],
+          "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
           "question_img": "<path ke gambar semut>",
-          "answer": ["2"]
+          "answer": ["2"],
+          "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
           "question_img": "<path ke gambar semut>",
-          "answer": ["3"]
+          "answer": ["3"],
+          "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
           "question_img": "<path ke gambar semut>",
-          "answer": ["4"]
+          "answer": ["4"],
+          "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
           "question_img": "<path ke gambar semut>",
-          "answer": ["5"]
+          "answer": ["5"],
+          "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
           "question_img": "<path ke gambar semut>",
-          "answer": ["6"]
+          "answer": ["6"],
+          "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
           "question_img": "<path ke gambar semut>",
-          "answer": ["7"]
+          "answer": ["7"],
+          "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
           "question_img": "<path ke gambar semut>",
-          "answer": ["8"]
+          "answer": ["8"],
+          "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
           "question_img": "<path ke gambar semut>",
-          "answer": ["9"]
+          "answer": ["9"],
+          "tags": ["menghitung_objek"]
         }
       ]
     },
@@ -180,13 +210,15 @@
           "type": "hitung_soal_gambar",
           "question": "Berapa banyak semut semuanya?",
           "question_img": "<path ke gambar semut>",
-          "answer": ["9"]
+          "answer": ["9"],
+          "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa semut yang tersisa?",
           "question_img": "<path ke gambar semut>",
-          "answer": ["9"]
+          "answer": ["9"],
+          "tags": ["menghitung_objek"]
         }
       ]
     },
@@ -197,13 +229,15 @@
         {
           "type": "hitung_soal_teks",
           "question": "3 + 2 =",
-          "answer": ["5"]
+          "answer": ["5"],
+          "tags": ["penjumlahan"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "3 - 2 =",
           "answer": ["1"],
-          "hint": "..."
+          "hint": "...",
+          "tags": ["pengurangan"]
         }
       ]
     }
