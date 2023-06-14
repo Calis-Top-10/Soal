@@ -133,70 +133,63 @@
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
-          "question_img": "<path ke gambar semut>",
-          "answer": ["0"],
-          "tags": ["menghitung_objek"]
-        },
-        {
-          "type": "hitung_soal_gambar",
-          "question": "Ada berapa banyak semut?",
-          "question_img": "<path ke gambar semut>",
+          "question_img": "https://storage.googleapis.com/calis-images/semut1",
           "answer": ["1"],
           "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
-          "question_img": "<path ke gambar semut>",
+          "question_img": "https://storage.googleapis.com/calis-images/semut2",
           "answer": ["2"],
           "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
-          "question_img": "<path ke gambar semut>",
+          "question_img": "https://storage.googleapis.com/calis-images/semut3",
           "answer": ["3"],
           "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
-          "question_img": "<path ke gambar semut>",
+          "question_img": "https://storage.googleapis.com/calis-images/semut4",
           "answer": ["4"],
           "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
-          "question_img": "<path ke gambar semut>",
+          "question_img": "https://storage.googleapis.com/calis-images/semut5",
           "answer": ["5"],
           "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
-          "question_img": "<path ke gambar semut>",
+          "question_img": "https://storage.googleapis.com/calis-images/semut6",
           "answer": ["6"],
           "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
-          "question_img": "<path ke gambar semut>",
+          "question_img": "https://storage.googleapis.com/calis-images/semut7",
           "answer": ["7"],
           "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
-          "question_img": "<path ke gambar semut>",
+          "question_img": "https://storage.googleapis.com/calis-images/semut8",
           "answer": ["8"],
           "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa banyak semut?",
-          "question_img": "<path ke gambar semut>",
+          "question_img": "https://storage.googleapis.com/calis-images/semut9",
           "answer": ["9"],
           "tags": ["menghitung_objek"]
         }
@@ -209,15 +202,15 @@
         {
           "type": "hitung_soal_gambar",
           "question": "Berapa banyak semut semuanya?",
-          "question_img": "<path ke gambar semut>",
-          "answer": ["9"],
+          "question_img": "https://storage.googleapis.com/calis-images/semut%3D2%2B3",
+          "answer": ["5"],
           "tags": ["menghitung_objek"]
         },
         {
           "type": "hitung_soal_gambar",
           "question": "Ada berapa semut yang tersisa?",
-          "question_img": "<path ke gambar semut>",
-          "answer": ["9"],
+          "question_img": "https://storage.googleapis.com/calis-images/semut%3D3-2",
+          "answer": ["1"],
           "tags": ["menghitung_objek"]
         }
       ]
