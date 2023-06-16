@@ -2,9 +2,9 @@
 
 ## Introduction
 This repsitory contains 3 jsonc files that is used to store, read, and transmit data between different systems or components.
-1. soal_baca.jsonc : contains reading quizzes data
-2. soal_hitung (1).jsonc : contains counting quizzes data
-3. soal_tulis.jsonc : contains writting quizzes data
+1. soal_baca.jsonc: contains reading quizzes data
+2. soal_hitung (1).jsonc: contains counting quizzes data
+3. soal_tulis.jsonc: contains writting quizzes data
 ## soal_baca.jsonc
 below is code snippet from **soal_baca.jsonc**
 ```
@@ -44,7 +44,7 @@ To represent a lesson.
       "questions": [
         {
 ```
-Properties : 
+Properties: 
 - **lessonType** (string): Indicates the type of lesson.
 - **lessonLevel** (integer): Represents the level or difficulty of the lesson.
 - **questions** (array): Contains an array of question objects for the lesson.
@@ -60,7 +60,7 @@ To represent a question within a lesson.
     "tags": ["baca_a"]
   },
 ```
-Properties :
+Properties:
 - **type** (string): Indicates the type of question.
 - **question** (string): Represents the question or prompt.
 - **answer** (array): Contains the correct answer(s) to the question.
@@ -99,7 +99,7 @@ To represent a lesson
       "lessonLevel": 100,
       "questions": [
 ```
-Properties :
+Properties:
 - **lessonType** (string): Indicates the type of lesson.
 - **lessonLevel** (number): Represents the level or difficulty of the lesson.
 - **questions** (array): Contains an array of question objects for the lesson.
@@ -115,7 +115,7 @@ To represent a question within a lesson.
     "tags": ["tulis_0"]
   },
 ```
-Properties :
+Properties:
 - **type** (string): The type of the question.
 - **question** (string): The question text or description.
 - **question_img** (string, optional): The URL of the question image.
@@ -160,7 +160,7 @@ To represent a lesson
       "lessonLevel": 100,
       "questions": [
 ```
-Properties :
+Properties:
 - **lessonType** (string): Indicates the type of lesson.
 - **lessonLevel** (integer): Represents the level or difficulty of the lesson.
 - **questions** (array): Contains an array of question objects for the lesson.
@@ -176,7 +176,7 @@ To represent a question within a lesson.
       "tags": ["tulis_A"]
     },
 ```
-Properties :
+Properties:
 - **type** (string): Specifies the type of the question.
 - **question** (string): The actual question or task.
 - **answer** (array): An array of possible answers for the question.
